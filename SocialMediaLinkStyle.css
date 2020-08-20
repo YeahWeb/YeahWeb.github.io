@@ -1,4 +1,21 @@
 h1{
-	color:#087178;
+	text-align: center;
+	color: #FFFFFF;
 	font-family: Helvetica;
+	a{
+	text-decoration: none;
+	color: #FFFFFF;
+	padding: 5px;
+	margin:2px;
+	border: 1px
+	background-color:#000000;
+}
+a:hover{
+	text-decoration: none;
+	color: #000000;
+	padding: 4px;
+	margin:2px;
+	border: 1px;
+	background-color: #FFFFFF;
+
 }
