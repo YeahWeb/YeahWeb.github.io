@@ -18,3 +18,12 @@ a{
 	margin:2px;
 	border: 1px
 }
+a:hover{
+	text-decoration: none;
+	color: #000000;
+	padding: 4px;
+	margin:2px;
+	border: 1px;
+
+}
+
