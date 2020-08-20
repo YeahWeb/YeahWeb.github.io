@@ -26,6 +26,11 @@ a:hover{
 	background-color: #FFFFFF;
 
 }
+a:active{
+	color: #0000FF;
+}
+	
+
 #White{
 	color: #FFFFFF;
 }
